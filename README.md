@@ -3,7 +3,7 @@ A maze generator in p5.js using the depth-first-search-recursive-backtracker alg
 
 Some example results, respectively on a 10x10, 20x20 and 30x30 grid:
 
-<img src="img1.png" alt="img 1">
+<img src="img1%20.png" alt="img 1">
 <img src="img2.png" alt="img 2">
 <img src="img3.png" alt="img 3">
 
