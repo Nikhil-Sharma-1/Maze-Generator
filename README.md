@@ -7,7 +7,7 @@ Some example results, respectively on a 10x10, 20x20 and 40x40 grid:
 <img src="https://github.com/Nikhil-Sharma-1/Maze-Generator/blob/main/img3.png" width="400" height="400">
 
 
-Here is a GIF I managed to make of it solving (now working!😊):
+Here is a GIF of it solving:
 
 ![](Maze_Generator.gif)
 
